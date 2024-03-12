@@ -1,0 +1,20 @@
+{
+  "name": "tnie_xkey",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Maulanaz1/tnie_xkey"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "juam_xid": "^1.0.0",
+    "nxhl_xid": "^1.0.0"
+  }
+}
